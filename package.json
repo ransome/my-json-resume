@@ -1,0 +1,33 @@
+{
+  "name": "my-json-resume",
+  "version": "1.0.0",
+  "description": "My Resume",
+  "main": "index.js",
+  "config": {
+    "theme": "--theme=elegant"
+  },
+  "scripts": {
+    "start": "npm-watch",
+    "buildHTML": "resume export resume.html --format html $npm_package_config_theme",
+    "buildPDF": "resume export resume.pdf --format pdf $npm_package_config_theme",
+    "build": "npm run buildHTML && npm run buildPDF"
+  },
+  "watch": {
+    "build": "resume.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ransome/my-json-resume.git"
+  },
+  "author": "Ransome Coleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ransome/my-json-resume/issues"
+  },
+  "homepage": "https://github.com/ransome/my-json-resume#readme",
+  "devDependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "npm-watch": "^0.11.0",
+    "resume-cli": "^3.0.7"
+  }
+}

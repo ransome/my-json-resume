@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Ransome Coleman",
+    "label": "Web Developer and Architect",
+    "image": "",
+    "email": "ransome.coleman@gmail.com",
+    "phone": "(864) 415-9188",
+    "location": {
+      "city": "Carrboro",
+      "countryCode": "US",
+      "region": "North Carolina"
+    },
+    "summary": "Developer and architect with 15 years experience primarily in Web Development.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ransomecoleman",
+        "url": "https://www.linkedin.com/in/ransomecoleman"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "PSLGroup",
+      "position": "Senior Manager, Integrations and Software Architecture",
+      "startDate": "2011-05-01",
+      "summary": "From Developer to Tech Lead to Senior Manager, I spent my time at PSL building multi-tenant solutions for over 50 brands.  I became the go to person for technical guidance on high profile projects in the company's largest grossing division.",
+      "highlights": [
+        "Remotely managing a team of 5 with 4 direct reports, trained over 15 developers and served as technical leader for 8 years",
+        "Leading migration from a multi-tenant Drupal to AWS by architecting the new system and building a roadmap to transition features",
+        "Introduced cloud and automated testing, built foundations for both",
+        "Architected and developed a multi-tenant learning and live event platform that serves thousands of courses from ~50 sites to a quarter million participants a month (Drupal)"
+      ]
+    },
+    {
+      "name": "Moonlighting",
+      "position": "Freelancer",
+      "startDate": "2010-08-01",
+      "endDate": "2018-08-01",
+      "summary": "Over the years I've taken on a few freelance gigs, both developing and managing subcontractors.  My main client worked with the Department of Education to build educational games.",
+      "highlights": [
+        "Built games and prototypes for clients using Unity3D, HTML5/JS and Flash",
+        "Coordinated with other developers to meet demanding project timelines",
+        "Produced a handful of sites for various clients (WordPress, Joomla)"
+      ]
+    },
+    {
+      "name": "UNCG Division of Continual Learning",
+      "position": "Lead Code Monkey",
+      "startDate": "2007-08-01",
+      "endDate": "2011-05-01",
+      "summary": "At DCL we built courses for online classes.  My notable achievement there was to spearhead a multi-tenant solution to features that were common across courses.",
+      "highlights": [
+        "Lead a team of 4 building and supporting 30-50 online courses a semester",
+        "Refactored world's first online game for college credit, Econ201",
+        "Consolidated course services under a custom multi-tenant framework"
+      ]
+    },
+    {
+      "name": "Core Search Group",
+      "position": "Recruiter",
+      "startDate": "2007-08-01",
+      "endDate": "2011-05-01",
+      "summary": "",
+      "highlights": [
+        "Interviewed world class developers and built a system to coach candidates",
+        "Played billiards with John Lakos"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Clemson",
+      "area": "Major Computer Science, Minor Philosophy",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2002-08-01",
+      "endDate": "2006-05-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Codie Award",
+      "date": "2013",
+      "awarder": "SIAA",
+      "summary": "Best Education Game or Simulation for Platinumath"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "TypeScript",
+        "PHP",
+        "Drupal 7"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Advanced",
+      "keywords": [
+        "NPM",
+        "JavaScript",
+        "HTML5",
+        "Angular",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "MySQL",
+        "Postgres",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Serverless"
+      ]
+    },
+    {
+      "name": "Dabble Sometimes",
+      "level": "Beginner",
+      "keywords": [
+        "C#",
+        "Unity3D",
+        "ReactJS"
+      ]
+    },
+    {
+      "name": "In the Past",
+      "level": "Beginner",
+      "keywords": [
+        "Python",
+        "C++",
+        "ActionScript(!)",
+        "Java"
+      ]
+    }
+  ]
+}
