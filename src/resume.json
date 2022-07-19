@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Ransome Coleman",
+    "label": "Web Architect and Developer",
+    "image": "https://ransomecoleman.info/portrait2.jpg",
+    "email": "ransome.coleman@gmail.com",
+    "phone": "(864) 415-9188",
+    "location": {
+      "city": "Carrboro",
+      "countryCode": "US",
+      "region": "North Carolina"
+    },
+    "summary": "Developer, architect and leader with 15 years experience primarily in Web Development.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ransomecoleman",
+        "url": "https://www.linkedin.com/in/ransomecoleman"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Clemson",
+      "area": "Major Computer Science, Minor Philosophy",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2002-08-01",
+      "endDate": "2006-05-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Codie Award",
+      "date": "2013-11-01",
+      "awarder": "SIAA",
+      "summary": "Best Education Game or Simulation in 2013 for Platinumath"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Fluent",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "Javascript",
+        "TypeScript",
+        "PHP",
+        "Drupal 7"
+      ]
+    },
+    {
+      "name": "Proficient",
+      "level": "Advanced",
+      "keywords": [
+        "AWS",
+        "Serverless",
+        "MySQL",
+        "Postgres",
+        "Redis",
+        "Angular",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Familiar",
+      "level": "Intermediate",
+      "keywords": [
+        "C#",
+        "Unity3D",
+        "ReactJS",
+        "HTML5"
+      ]
+    },
+    {
+      "name": "Used to Know",
+      "level": "Beginner",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "ActionScript"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "PSLGroup",
+      "position": "Senior Manager, Integrations and Software Architecture",
+      "startDate": "2011-05-01",
+      "summary": "The go to person for technical solutions on high profile projects in the company's largest grossing division.",
+      "highlights": [
+        "Remotely managing a team of 5 with 4 direct reports, trained over 15 developers and served as technical leader for 8 years",
+        "Leading migration from a multi-tenant Drupal to AWS by architecting the new system and building a roadmap to transition features",
+        "Introduced cloud and automated testing, built foundations for both",
+        "Architected and developed a multi-tenant learning and live event platform that serves thousands of courses from ~50 sites to a quarter million participants a month (Drupal)"
+      ]
+    },
+    {
+      "name": "UNCG Division of Continual Learning",
+      "position": "Lead Code Monkey",
+      "startDate": "2007-08-01",
+      "endDate": "2011-05-01",
+      "summary": "At DCL we built courses for online classes.  My notable achievement there was to spearhead a multi-tenant solution to features that were common across courses.",
+      "highlights": [
+        "Lead a team of 4 building and supporting 30-50 online courses a semester",
+        "Refactored world's first online game for college credit, Econ201",
+        "Consolidated course services under a custom multi-tenant framework"
+      ]
+    },
+    {
+      "name": "Core Search Group",
+      "position": "Recruiter",
+      "startDate": "2007-08-01",
+      "endDate": "2011-05-01",
+      "summary": "The best recruitment agency on the planet. I helped cool people get good jobs in a client-centric, fresh approach to recruiting.",
+      "highlights": [
+        "Interviewed world class developers and built a system to coach candidates",
+        "Played billiards with John Lakos"
+      ]
+    },
+    {
+      "name": "Moonlighting",
+      "position": "Freelancer",
+      "startDate": "2010-08-01",
+      "endDate": "2018-08-01",
+      "summary": "Over the years I've taken on a few freelance gigs, both developing and managing subcontractors.  My main client worked with the Department of Education to build educational games.",
+      "highlights": [
+        "Built games and prototypes for clients using Unity3D, HTML5/JS and Flash",
+        "Coordinated with other developers to meet demanding project timelines"
+      ]
+    }
+  ]
+}
